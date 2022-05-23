@@ -1,4 +1,3 @@
-import style from './feedback.module.css';
 import { Component } from 'react';
 
 import FeedbackOptions from './FeedbackOptions';
